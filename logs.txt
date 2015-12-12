@@ -1,0 +1,306 @@
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Starting a new run at 1.44970738596e9 with pursuit error 0.5 and maximum iterations 11 using pursuit algorithm nothing looking for a dictionary of size 20
+
+we've sparsified again!
+ Status:Optimal       error: 41.98593268679333       Time:0.80899977684021
+The initial sparse vector is
+
+
+ changed basis element 1 and got a global objective of 38.55518547518774
+ changed basis element 2 and got a global objective of 36.57015513259664
+ changed basis element 3 and got a global objective of 36.553055515160096
+ changed basis element 4 and got a global objective of 35.40010263622259
+ changed basis element 5 and got a global objective of 31.329706127874402
+ changed basis element 6 and got a global objective of 30.293706556764167
+ changed basis element 7 and got a global objective of 30.227035315914932
+ changed basis element 8 and got a global objective of 28.160825757581634
+ changed basis element 9 and got a global objective of 25.438350344055298
+ changed basis element 10 and got a global objective of 24.62245838529684
+ changed basis element 11 and got a global objective of 24.54958866574173
+ changed basis element 12 and got a global objective of 23.563190733757423
+ changed basis element 13 and got a global objective of 23.468973232304123
+ changed basis element 14 and got a global objective of 22.478700291843353
+ changed basis element 15 and got a global objective of 22.173108989049314
+ changed basis element 16 and got a global objective of 22.06721217543206
+ changed basis element 17 and got a global objective of 20.463585802945907
+ changed basis element 18 and got a global objective of 19.89429264333111
+ changed basis element 19 and got a global objective of 19.55136043951702
+ changed basis element 20 and got a global objective of 17.829086960544068
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just finished the 1th iteration of dictionary updates; at the moment, the dictionary is
+
+while the sparsity vector x is
+
+we've sparsified again!
+ Status:Optimal       error: 132.18928961985455       Time:0.7100000381469727
+ changed basis element 1 and got a global objective of 120.13882465792909
+ changed basis element 2 and got a global objective of 116.83007926715717
+ changed basis element 3 and got a global objective of 116.80379152724815
+ changed basis element 4 and got a global objective of 101.9412999074051
+ changed basis element 5 and got a global objective of 96.69570884424846
+ changed basis element 6 and got a global objective of 93.70629595862243
+we've sparsified again!
+ Status:Optimal       error: 117.57026135197152       Time:0.6540000438690186
+this basis vector isn't being used, substituted the 16th sample
+
+ changed basis element 8 and got a global objective of 115.57206558323611
+ changed basis element 9 and got a global objective of 105.96168802589852
+ changed basis element 10 and got a global objective of 101.45597211281603
+ changed basis element 11 and got a global objective of 101.40548589249686
+ changed basis element 12 and got a global objective of 96.45501408705022
+ changed basis element 13 and got a global objective of 96.45159365953504
+ changed basis element 14 and got a global objective of 85.43981065572375
+ changed basis element 15 and got a global objective of 85.40892425291497
+ changed basis element 16 and got a global objective of 85.40641894693138
+ changed basis element 17 and got a global objective of 78.47855893407055
+ changed basis element 18 and got a global objective of 75.03681994562484
+ changed basis element 19 and got a global objective of 74.83601194520529
+ changed basis element 20 and got a global objective of 67.41156700327231
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just finished the 2th iteration of dictionary updates; at the moment, the dictionary is
+
+while the sparsity vector x is
+
+we've sparsified again!
+ Status:Optimal       error: 104.66939460290843       Time:0.6299998760223389
+ changed basis element 1 and got a global objective of 96.38230963213574
+ changed basis element 2 and got a global objective of 94.27117210192863
+ changed basis element 3 and got a global objective of 94.26266295834058
+ changed basis element 4 and got a global objective of 88.77378279685341
+ changed basis element 5 and got a global objective of 85.46914567490099
+ changed basis element 6 and got a global objective of 84.32170036624592
+ changed basis element 7 and got a global objective of 76.09070750276531
+ changed basis element 8 and got a global objective of 74.00221490417988
+ changed basis element 9 and got a global objective of 59.10896674363555
+ changed basis element 10 and got a global objective of 56.16742234919917
+ changed basis element 11 and got a global objective of 56.16543343639073
+ changed basis element 12 and got a global objective of 54.74946313237011
+ changed basis element 13 and got a global objective of 53.880270416544946
+ changed basis element 14 and got a global objective of 43.401493721326695
+ changed basis element 15 and got a global objective of 43.380794523383436
+ changed basis element 16 and got a global objective of 43.37580073139866
+ changed basis element 17 and got a global objective of 31.23208931660259
+ changed basis element 18 and got a global objective of 28.095232832106355
+ changed basis element 19 and got a global objective of 26.955739591807358
+ changed basis element 20 and got a global objective of 25.414824310422045
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just finished the 3th iteration of dictionary updates; at the moment, the dictionary is
+
+while the sparsity vector x is
+
+we've sparsified again!
+ Status:Optimal       error: 101.37224227859011       Time:0.6430001258850098
+ changed basis element 1 and got a global objective of 93.92308179742322
+ changed basis element 2 and got a global objective of 91.9584087810353
+ changed basis element 3 and got a global objective of 91.95756461838187
+ changed basis element 4 and got a global objective of 87.05126639772162
+ changed basis element 5 and got a global objective of 85.23418934667308
+ changed basis element 6 and got a global objective of 83.90253036143594
+ changed basis element 7 and got a global objective of 75.59120809018025
+ changed basis element 8 and got a global objective of 74.06451944746783
+ changed basis element 9 and got a global objective of 59.55952510261411
+ changed basis element 10 and got a global objective of 56.7321093252969
+ changed basis element 11 and got a global objective of 56.30872659631974
+ changed basis element 12 and got a global objective of 54.98908504415413
+ changed basis element 13 and got a global objective of 54.626539056253755
+ changed basis element 14 and got a global objective of 43.5948370448582
+ changed basis element 15 and got a global objective of 43.50789440886696
+ changed basis element 16 and got a global objective of 42.98792377298562
+ changed basis element 17 and got a global objective of 30.472029876048282
+ changed basis element 18 and got a global objective of 27.857229949681496
+ changed basis element 19 and got a global objective of 25.77461100089884
+ changed basis element 20 and got a global objective of 24.560690470104753
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just finished the 4th iteration of dictionary updates; at the moment, the dictionary is
+
+while the sparsity vector x is
+
+we've sparsified again!
+ Status:Optimal       error: 100.81022435832254       Time:0.6070001125335693
+ changed basis element 1 and got a global objective of 93.34577066263546
+ changed basis element 2 and got a global objective of 91.39021457769566
+ changed basis element 3 and got a global objective of 91.31171867950833
+ changed basis element 4 and got a global objective of 86.40799792901265
+ changed basis element 5 and got a global objective of 84.67756179664526
+ changed basis element 6 and got a global objective of 83.65938643255654
+ changed basis element 7 and got a global objective of 75.33496162663744
+ changed basis element 8 and got a global objective of 73.87755671982227
+ changed basis element 9 and got a global objective of 59.320705800193274
+ changed basis element 10 and got a global objective of 56.4277634131686
+ changed basis element 11 and got a global objective of 55.90095120530737
+ changed basis element 12 and got a global objective of 54.69401508050858
+ changed basis element 13 and got a global objective of 54.63879383597764
+ changed basis element 14 and got a global objective of 43.76092547516857
+ changed basis element 15 and got a global objective of 43.7545099924968
+ changed basis element 16 and got a global objective of 43.163576788122896
+ changed basis element 17 and got a global objective of 30.736960152791976
+ changed basis element 18 and got a global objective of 28.275816949468155
+ changed basis element 19 and got a global objective of 25.482995684186097
+ changed basis element 20 and got a global objective of 24.888345022925044
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just finished the 5th iteration of dictionary updates; at the moment, the dictionary is
+
+while the sparsity vector x is
+
+we've sparsified again!
+ Status:Optimal       error: 100.63084250194835       Time:0.7129998207092285
+ changed basis element 1 and got a global objective of 93.26499969801115
+ changed basis element 2 and got a global objective of 91.18132896254217
+ changed basis element 3 and got a global objective of 90.9288347503376
+ changed basis element 4 and got a global objective of 86.25672289375399
+ changed basis element 5 and got a global objective of 84.3759851046555
+ changed basis element 6 and got a global objective of 83.54776716852315
+ changed basis element 7 and got a global objective of 74.66445445244132
+ changed basis element 8 and got a global objective of 73.42097663854487
+ changed basis element 9 and got a global objective of 58.764836333818415
+ changed basis element 10 and got a global objective of 55.935713576667936
+ changed basis element 11 and got a global objective of 55.25638314038465
+ changed basis element 12 and got a global objective of 54.17044872530967
+ changed basis element 13 and got a global objective of 53.09405150617206
+ changed basis element 14 and got a global objective of 42.551094674777744
+ changed basis element 15 and got a global objective of 42.17669015241401
+ changed basis element 16 and got a global objective of 41.99855899648422
+ changed basis element 17 and got a global objective of 29.10940987557773
+ changed basis element 18 and got a global objective of 26.59855700867572
+ changed basis element 19 and got a global objective of 24.869933200267326
+ changed basis element 20 and got a global objective of 24.386997551804164
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just finished the 6th iteration of dictionary updates; at the moment, the dictionary is
+
+while the sparsity vector x is
+
+we've sparsified again!
+ Status:Optimal       error: 99.4937471388731       Time:0.6130001544952393
+ changed basis element 1 and got a global objective of 93.2256510256747
+ changed basis element 2 and got a global objective of 91.16218458659714
+ changed basis element 3 and got a global objective of 90.74007574187226
+ changed basis element 4 and got a global objective of 86.38800360237354
+ changed basis element 5 and got a global objective of 85.42337778509982
+ changed basis element 6 and got a global objective of 84.69120136217195
+ changed basis element 7 and got a global objective of 76.36769253401063
+ changed basis element 8 and got a global objective of 74.8132819856888
+ changed basis element 9 and got a global objective of 60.508450596480884
+ changed basis element 10 and got a global objective of 57.94282038112962
+ changed basis element 11 and got a global objective of 57.084611798167906
+ changed basis element 12 and got a global objective of 56.05014953582234
+ changed basis element 13 and got a global objective of 53.01674837224185
+ changed basis element 14 and got a global objective of 42.15347250624104
+ changed basis element 15 and got a global objective of 41.78922509761956
+ changed basis element 16 and got a global objective of 41.45632197034192
+ changed basis element 17 and got a global objective of 28.63077670642251
+ changed basis element 18 and got a global objective of 25.465144222966227
+ changed basis element 19 and got a global objective of 24.27737581133215
+ changed basis element 20 and got a global objective of 24.00983857188202
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just finished the 7th iteration of dictionary updates; at the moment, the dictionary is
+
+while the sparsity vector x is
+
+we've sparsified again!
+ Status:Optimal       error: 98.97134457719628       Time:0.6359999179840088
+ changed basis element 1 and got a global objective of 92.97905451009845
+ changed basis element 2 and got a global objective of 90.84312671942183
+ changed basis element 3 and got a global objective of 90.41838462176807
+ changed basis element 4 and got a global objective of 86.11876595828632
+ changed basis element 5 and got a global objective of 84.94269639528041
+ changed basis element 6 and got a global objective of 84.15527761247779
+ changed basis element 7 and got a global objective of 75.95691279446524
+ changed basis element 8 and got a global objective of 74.5713314042288
+ changed basis element 9 and got a global objective of 60.09055006422993
+ changed basis element 10 and got a global objective of 57.55292270765457
+ changed basis element 11 and got a global objective of 56.8730908385145
+ changed basis element 12 and got a global objective of 56.588492160046485
+ changed basis element 13 and got a global objective of 53.091098310504975
+ changed basis element 14 and got a global objective of 42.06878749776892
+ changed basis element 15 and got a global objective of 41.63063769437596
+ changed basis element 16 and got a global objective of 41.445747276049744
+ changed basis element 17 and got a global objective of 28.602870737544894
+ changed basis element 18 and got a global objective of 27.166721271932303
+ changed basis element 19 and got a global objective of 26.570668307902604
+ changed basis element 20 and got a global objective of 26.312674622149885
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just finished the 8th iteration of dictionary updates; at the moment, the dictionary is
+
+while the sparsity vector x is
+
+we've sparsified again!
+ Status:Optimal       error: 99.04251936368534       Time:0.6329998970031738
+ changed basis element 1 and got a global objective of 93.16556098585203
+ changed basis element 2 and got a global objective of 91.25776512024522
+ changed basis element 3 and got a global objective of 90.91511785173891
+ changed basis element 4 and got a global objective of 86.60890394415506
+ changed basis element 5 and got a global objective of 84.6218766436077
+ changed basis element 6 and got a global objective of 83.7759474184478
+ changed basis element 7 and got a global objective of 75.4914006027902
+ changed basis element 8 and got a global objective of 74.1490115282196
+ changed basis element 9 and got a global objective of 59.631082580928705
+ changed basis element 10 and got a global objective of 57.06425025901592
+ changed basis element 11 and got a global objective of 56.51033117289413
+ changed basis element 12 and got a global objective of 56.21646477552655
+ changed basis element 13 and got a global objective of 53.996007060304436
+ changed basis element 14 and got a global objective of 43.12901263971061
+ changed basis element 15 and got a global objective of 42.688498210973464
+ changed basis element 16 and got a global objective of 42.530871559812454
+ changed basis element 17 and got a global objective of 30.178704671022665
+ changed basis element 18 and got a global objective of 29.201218583195644
+ changed basis element 19 and got a global objective of 28.752895598270225
+ changed basis element 20 and got a global objective of 28.47072991287782
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just finished the 9th iteration of dictionary updates; at the moment, the dictionary is
+
+while the sparsity vector x is
+
+we've sparsified again!
+ Status:Optimal       error: 99.22132390648085       Time:0.623999834060669
+ changed basis element 1 and got a global objective of 93.35369365204768
+ changed basis element 2 and got a global objective of 91.78528838894024
+ changed basis element 3 and got a global objective of 91.44664960937776
+ changed basis element 4 and got a global objective of 87.16880095499758
+ changed basis element 5 and got a global objective of 85.27462788734172
+ changed basis element 6 and got a global objective of 84.42451017524868
+ changed basis element 7 and got a global objective of 75.94009155766116
+ changed basis element 8 and got a global objective of 74.98911780527773
+ changed basis element 9 and got a global objective of 60.733126163981645
+ changed basis element 10 and got a global objective of 57.91038134995504
+ changed basis element 11 and got a global objective of 57.22057328675643
+ changed basis element 12 and got a global objective of 56.92918820795044
+ changed basis element 13 and got a global objective of 54.740612272795126
+ changed basis element 14 and got a global objective of 44.04234372956489
+ changed basis element 15 and got a global objective of 43.85087029887436
+ changed basis element 16 and got a global objective of 43.45458092225223
+ changed basis element 17 and got a global objective of 31.43150975210741
+ changed basis element 18 and got a global objective of 30.330207995516123
+ changed basis element 19 and got a global objective of 29.179305589979382
+ changed basis element 20 and got a global objective of 28.567542439973412
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just finished the 10th iteration of dictionary updates; at the moment, the dictionary is
+
+while the sparsity vector x is
+
+we've sparsified again!
+ Status:Optimal       error: 99.19095526519939       Time:0.6710000038146973
+Well boys, it's been a good run; we've had 10 runs, taking a total of 10.707000017166138 seconds, with final estimation matrix
